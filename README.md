@@ -10,7 +10,7 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 
 ## 🛠️ Tech Stack
 ### **Languages**
-![Python]()
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python?logoColor=white)
 ![C++]()
 ![C#]()
 ![Javascript]()
