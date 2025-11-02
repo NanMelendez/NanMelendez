@@ -10,16 +10,16 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 
 ## 🛠️ Tech Stack
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python?logoColor=white)
-![C++]()
-![C#]()
-![Javascript]()
-![SQL]()
-![Go]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9f08bd?style=for-the-badge&logo=dotnet&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-C42A04?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2A9AEB?style=for-the-badge&logo=go&logoColor=white)
 
 ### **Databases**
-![PostgreSQL]()
-![MySQL]()
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C42A04?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0B619E?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL]()
 ![SQLite]()
 ![SQL Server]()
@@ -47,13 +47,12 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![Git]()
 ![GitHub]()
 ![Jupyter]()
-![Visual Studio]()
-![VS Code]()
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-9905e3?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-308bf2?style=for-the-badge)
 
 ### **AI/ML**
-![Python]()
-![Scikit-Learn]()
-![PyTorch]()
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e09010?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red)
 
 <!--
 **NanMelendez/NanMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
