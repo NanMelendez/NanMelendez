@@ -60,6 +60,12 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9905e3?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-308bf2?style=for-the-badge)
 
+## 📊 **Stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanmelendez&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmelendez&layout=compact&theme=aura_dark)
+
 <!--
 **NanMelendez/NanMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
