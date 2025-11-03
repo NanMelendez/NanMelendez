@@ -1,14 +1,13 @@
 ## <h1 align="center"> Hello world, I'm Nander Melendez! </h1> 
 
 ## 🙋 About Me
-Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my skills.
+Bachelor in Computer Science, sometimes coding stuff for hobby and to perfect my skills.
 
-- Currently looking for a job.
-- Passionate about: Graphic Computing, Videogame Development, Data Science, Web Development, 3D modeling
-- Reach me: **melendez.nander@gmail.com**
-- Based in: **Lima, Peru**
+- 💼 Currently looking for a job.
+- 💡 Passionate about: Graphic Computing, Game Development, Data Science, Web Development, 3D modeling
+- 🌎 Based in: **Lima, Peru**
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -65,6 +64,11 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanmelendez&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmelendez&layout=compact&theme=aura_dark)
+
+## 📕 **Contact Info**
+- 📱 +51 938 544 003
+- 📧 melendez.nander@gmail.com
+- <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" widht="20" height="20"/> nandermelendezh
 
 <!--
 **NanMelendez/NanMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
