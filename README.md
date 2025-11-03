@@ -36,7 +36,7 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=springboot&logoColor=green)
 
 ### **Data Science | AI | Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000074?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-B0B0B0?style=for-the-badge&logo=r&logoColor=317BEB)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e09010?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red)
