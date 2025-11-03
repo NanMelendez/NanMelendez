@@ -61,6 +61,8 @@ Bachelor in Computer Science, sometimes coding stuff for hobby and to perfect my
 
 ## 📊 **Stats**
 
+![](https://komarev.com/ghpvc/?username=nanmelendez&color=red)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanmelendez&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmelendez&layout=compact&theme=aura_dark&size_weight=0&count_weight=1&langs_count=8)
