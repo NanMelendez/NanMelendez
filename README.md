@@ -27,7 +27,7 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 
 ### **Web Development**
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=10DDE8)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0452C7?style=for-the-badge&logo=css&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-317BEB?style=for-the-badge&logo=typescript&logoColor=white)
