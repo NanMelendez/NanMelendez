@@ -35,9 +35,11 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![.NET](https://img.shields.io/badge/.NET-5007d9?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=springboot&logoColor=green)
 
-### **Data Science**
+### **Data Science | AI | Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-B0B0B0?style=for-the-badge&logo=r&logoColor=317BEB)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e09010?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red)
 
 ### **Graphic Computing**
 ![OpenGL](https://img.shields.io/badge/OpenGL-F2F2F2?style=for-the-badge&logo=opengl&logoColor=5685B0)
@@ -46,6 +48,10 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ### **Game Development**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9F08BD?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-171717?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-0464B3?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
+![Source](https://img.shields.io/badge/Source-242424?style=for-the-badge&logo=sourceengine&logoColor=FCBA03)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
@@ -53,13 +59,6 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-9905e3?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-308bf2?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-171717?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-0464B3?style=for-the-badge&logo=godotengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
-
-### **AI/ML**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e09010?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=red)
 
 <!--
 **NanMelendez/NanMelendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
