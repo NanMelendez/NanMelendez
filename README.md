@@ -55,6 +55,7 @@ Bachelor on Computer Science, sometimes coding stuff for hobby and to perfect my
 ![VS Code](https://img.shields.io/badge/VS_Code-308bf2?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-171717?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-0464B3?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white)
 
 ### **AI/ML**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e09010?style=for-the-badge&logo=scikitlearn&logoColor=white)
