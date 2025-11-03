@@ -63,7 +63,7 @@ Bachelor in Computer Science, sometimes coding stuff for hobby and to perfect my
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanmelendez&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmelendez&layout=compact&theme=aura_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmelendez&layout=compact&theme=aura_dark&size_weight=0&count_weight=1&langs_count=8)
 
 ## 📕 **Contact Info**
 - 📱 +51 938 544 003
