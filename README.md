@@ -1,7 +1,7 @@
 ## <h1 align="center"> Hello world, I'm Nander Melendez! </h1> 
 
 ## 🙋 About Me
-Bachelor in Computer Science, sometimes coding stuff for hobby and to perfect my skills.
+Bachelor in Computer Science, always looking forward to improving my coding skills.
 
 - 💼 Currently looking for a job.
 - 💡 Passionate about: Graphic Computing, Game Development, Data Science, Web Development, 3D modeling
